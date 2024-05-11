@@ -1,0 +1,30 @@
+2024-03-13 15:19:59: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/PROJECTS/sophie/public/assets/vendor/phpqrcode/lib/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/PROJECTS/sophie/public/assets/vendor/phpqrcode/lib/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/PROJECTS/sophie/public/assets/vendor/phpqrcode/lib/qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/PROJECTS/sophie/public/assets/vendor/phpqrcode/lib/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/PROJECTS/sophie/public/assets/vendor/phpqrcode/lib/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/PROJECTS/sophie/public/assets/vendor/phpqrcode/lib/qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/PROJECTS/sophie/public/assets/vendor/phpqrcode/lib/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/PROJECTS/sophie/public/assets/vendor/phpqrcode/lib/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/PROJECTS/sophie/public/assets/vendor/phpqrcode/lib/qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/PROJECTS/sophie/public/assets/vendor/phpqrcode/lib/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/PROJECTS/sophie/public/assets/vendor/phpqrcode/lib/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/PROJECTS/sophie/public/assets/vendor/phpqrcode/lib/qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/PROJECTS/sophie/public/assets/vendor/phpqrcode/lib/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/PROJECTS/sophie/public/assets/vendor/phpqrcode/lib/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/opt/lampp/htdocs/PROJECTS/sophie/public/assets/vendor/phpqrcode/lib/qrsplit.php</b> on line <b>62</b><br />
