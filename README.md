@@ -1,1 +1,1 @@
-The Cloud-Based Bus Pass System is a digital platform designed to streamline public transportation in urban areas. It allows users to purchase, manage, and renew their bus passes online, providing real-time information about bus schedules and routes.
+The Cloud-Based Bus Pass System is a digital platform designed to streamline public transportation in Nairobi. It allows users to purchase, manage, and renew their bus passes online, providing real-time information about bus schedules and routes.
